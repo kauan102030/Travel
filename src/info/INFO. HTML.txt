@@ -1,0 +1,289 @@
+/**MENU
+/*Logo - Travelista
+/*LINKS
+HOME
+ABOUT
+PACKAGES
+HOTELS
+INSURANCE
+BLOG
+PAGES
+CONTACT
+*/
+**/
+
+/**HOME
+/*TEXTS
+-AWAY FROM MONOTONOUS LIFE
+-MAGICAL TRAVEL
+-If you are looking at blank cassettes on the web, you may be very confused at
+the difference in price. You may see some for as low as $.17 each.
+*/
+/*BOTÃO
+-Get Started
+*/
+/*forms
+/*BOTÕES DE OPÇÕES
+-FLIGHTS
+-HOSTELS
+-HOLIDAYS
+*/
+/*ENTRADAS
+/*PLACEHOLDER
+-From
+-To
+-Start
+-Return
+-Adults
+-Child
+*/
+*/
+/*BOTÃO
+-SEATCH FLIGHTS
+/*IMAGE
+-CASTELO
+*/
+*/
+**/
+
+/**POPULAR DETINATIONS
+/*TEXTS
+-Popular Destinations
+-We all live in na age that belongs to the Young at heart. Life that is becoming extremely fast, day.
+*/
+/*CARDS
+/*CARD1
+-$.4000
+-GOA
+-India
+/*IMAGE
+-GOA INDIA
+*/
+*/
+/*CARD2
+-$.4000
+-JAMMU
+-India
+/*IMAGE
+-JAMMU INDIA
+*/
+*/
+/*CARD3
+-$.4000
+-OOTY
+-India
+/*IMAGE
+-OOTY INDIA
+*/
+*/
+/*CARD4
+-$.4000
+-KANIYAKUMARI
+-India
+/*IMAGE
+-KANIYAKUMARI INDIA
+*/
+*/
+/*CARD5
+-$.4000
+-TAJMAHAL
+-India
+/*IMAGE
+-TAJMAHAL INDIA
+*/
+*/
+/*CARD6
+-$.4000
+-LADAKH
+-India
+/*IMAGE
+-LADAKH INDIA
+*/
+*/
+*/
+**/
+
+/**PACKAGES
+/*TEXTS
+-We Provide Affordable Prices
+-Well educated, intelectual people, especially scientists at all times demonstrate considerably.
+*/
+/*CABECALHO
+-Cheap Packages
+-Luxury Packages
+-Camping Packages
+*/
+/*TABELA
+/*LINE 1
+-Goa
+-$.4000
+-Goa
+-$.4000
+-Goa
+-$.4000
+*/
+/*LINE 2
+-Jammu
+-$.4000
+-Jammu
+-$.4000
+-Jammu
+-$.4000
+*/
+/*LINE 3
+-Ooty
+-$.4000
+-Ooty
+-$.4000
+-Ooty
+-$.4000
+*/
+/*LINE 4
+-Kaniyakumari
+-$.4000
+-Kaniyakumari
+-$.4000
+-Kaniyakumari
+-$.4000
+*/
+/*LINE 5
+-Tajmahal
+-$.4000
+-Tajmahal
+-$.4000
+-Tajmahal
+-$.4000
+*/
+/*LINE 6
+-Ladakh
+-$.4000
+-Ladakh
+-$.4000
+-Ladakh
+-$.4000
+*/
+*/
+**/
+
+/**LISTA DE COISAS
+/*TEXTS
+-Other issues we can help you with
+-We all live in na age that belongs to the young at heart. Life that is.
+*/
+/*CARDS
+/*CARD1
+/*IMAGE
+-CARRO
+*/
+/*TEXTS
+-Rent a Car
+-The presevation of human life is 
+the ultimate value, a pillar of ethics 
+and the foundation.
+*/
+*/
+/*CARD2
+/*IMAGE
+-NAVIO
+*/
+/*TEXTS
+-Cruise Booking
+-I was always somebody who felt
+quite sorry for myself, what I had 
+not got compared.
+*/
+*/
+/*CARD3
+/*IMAGE
+-PESCA
+*/
+/*TEXTS
+-To Do List
+-The following article covers a topic 
+that has recently moved to center 
+stage at least it seems.
+*/
+*/
+/*CARD4
+/*IMAGE
+-FOODS FEATURES
+*/
+/*TEXTS
+-Food Features
+-There are many kinds of narratives 
+and organizing principles. Science is 
+driven by evidence.
+*/
+*/
+*/
+**/
+
+/**PERSONALIZADO
+/*TEXTS
+-Did not find your Package? Feel free to ask us. We'll make it for you.
+-inappropriate behavior is often laughed off as "boys will be boys," women
+face higher conduct standards espeacially in the workplace. That's why it's
+crucial that, as women, our behavior on the job is beyond reproach.
+inappropriae behavior is often laughed.
+*/
+/*BOTÃO
+-REQUEST CUSTOM PRICE
+*/
+/*IMAGE
+16 IMAGENS DE LUGARES BONITOS CLIMA DESERTO/TROPICAL
+**/
+
+/**RODAPÉ
+/*CARDS
+/*CARD1
+/*TEXTS
+-ABOUT AGENCY
+-The world has become so fast paced that people
+don't want to stand by Reading a page of
+information, they would mych rather look at a
+presentation and understand the message. it has come to a point
+*/
+*/
+/*CARD2
+/*TEXTS1
+-NAVIGATION LINKS
+-Home
+-About
+-Packages
+-Hotels
+*/
+/*TEXTS2
+-Insurance
+-Pages
+-Blog
+-Contact
+*/
+*/
+/*CARD3
+/*TEXTS
+-NEWSLETTER
+-For business professionals caught between high
+OEM price and medíocre print and grapic output.
+*/
+/*ICONS
+-FACEBOOK
+-TWITER
+-INSTAGRAM
+-WHATSAPP
+*/
+/*COPYRIGHT
+/*TEXT
+Copyright @2022 All rights reserved | The design this template is made with by Coloriib
+*/
+*/
+*/
+*/
+**/
+
+
+
+
+
+
+
+

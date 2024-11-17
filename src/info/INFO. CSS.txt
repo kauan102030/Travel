@@ -1,0 +1,49 @@
+/**MENU
+background: #000;
+color: #fff;
+**/
+
+/**HOME
+background-image: url('./');
+color: #fff;
+color-: #000;
+background-color: #fa812a;/*laranja*/
+background-color: gray;
+**/
+
+/**POPULAR DESTINATIONS
+color: #000;
+background-color: #fff;
+background-image: url('./');
+color: #fa812a;/*laranja*/
+color: #fff;
+background-color: #fa812a;/*laranja*/
+**/
+
+/**PACKAGES
+color: #000;
+color: gray;
+background-color: #fff;
+border-bottom: 3px solid #dfa400;/*laranja mais escuro*/
+background-color: #dfe9f5;/*azul claro*/
+**/
+
+/**LISTA DE COISAS
+color: #000;
+color: gray;
+background-color: #fff;
+**/
+
+/**PERSONALIZADO
+color: #000;
+color: gray;
+background-color: #fff;
+background-color: #fa812a;/*laranja*/
+**/
+
+/**RODAPÉ
+color: #fff;
+background-color: #000;
+**/
+
+
